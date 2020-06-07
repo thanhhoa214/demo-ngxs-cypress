@@ -1,0 +1,7 @@
+{
+  "name": "demo-ngxs-cypress",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
